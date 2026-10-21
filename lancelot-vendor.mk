@@ -385,8 +385,6 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.camera.bgservice@1.0 \
     vendor.mediatek.hardware.camera.bgservice@1.1 \
     vendor.mediatek.hardware.mdmonitor@1.0 \
-    vendor.mediatek.hardware.mtkradioex@2.0 \
-    vendor.mediatek.hardware.mtkradioex@3.0 \
     LDC_packdata_xiaomi_J19_Ofilm_3280x2464.dat \
     LDC_packdata_xiaomi_J19_QTech_3264x2448.dat \
     ccci_mdinit \
