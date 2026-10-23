@@ -6,7 +6,7 @@ LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),lancelot)
 
-$(call add-radio-file-sha1-checked,radio/lk.img,ee56ec5aaa9dfcd12ac4c252e879aeb67cc29bd8)
+$(call add-radio-file-sha1-checked,radio/lk.img,5f34b9b0439839f35f7ab2b1a7a498a62c29e817)
 $(call add-radio-file-sha1-checked,radio/logo.img,144e669eb7623e547d2273ca3cb56d24a5740474)
 $(call add-radio-file-sha1-checked,radio/md1img.img,df8c2e65dcdad0cd010a686d2912227f038d4abe)
 $(call add-radio-file-sha1-checked,radio/preloader_emmc.img,7ca32120d16f0d8ecad8f9ce85037efe5171138f)
